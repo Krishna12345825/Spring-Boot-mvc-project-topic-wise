@@ -1,2 +1,2 @@
-# Spring-Boot-mvc-project-tpic-wise
+# Spring-Boot-mvc-project-topic-wise
 during learning time
