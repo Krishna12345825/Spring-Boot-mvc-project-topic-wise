@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 16
+Implementation-Title: BootMVCProj21-MiniProject-CURDOperations-Error-Exc
+ eptions
+Implementation-Version: 0.0.1-SNAPSHOT
+Created-By: Maven Integration for Eclipse
+
